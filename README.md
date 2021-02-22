@@ -1,4 +1,4 @@
-# Convolution-Neurral-Networks
+# Convolution-Neural-Network
 
 ## Image classification - chest xray's. Have pneumonia or not ?
 
