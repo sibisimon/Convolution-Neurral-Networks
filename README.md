@@ -1,4 +1,4 @@
-# Convolution-Neural-Network
+# Convolutional-Neural-Network
 
 ## Image classification - chest xray's. Have pneumonia or not ?
 
@@ -18,5 +18,4 @@
 ## Requirements
 
 Python 3
-
-
+Anaconda-navigator/ Jupyter Notebook or any other similar to run ipynb file  (Not mandatory) (.py file is also included)
